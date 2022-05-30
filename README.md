@@ -5,3 +5,5 @@ This repository contains my Tableau dashboards and visualizations as a sampling 
 
  This dashboard contains choropleth maps for the Sample Superstore data that comes with the tableau desktop software and shows a population density layer from the 2018 US population census. It does a great job at layering the information for in-depth analysis but also a quick scan of the overall trends state-to-state. The name of the file is "sales_profits.twb" and the data comes from the Sample Superstore dataset
 		![Sales_profit screenshot](https://user-images.githubusercontent.com/67971912/171043041-f896829e-1b97-48bf-a4b2-e258cede1a20.png)
+		While hovering one of the datapoints on the map a breakdown of state sales by postal code shows the marginal costs, profits, and overall amounts.   
+		![Sales_profit screen1](https://user-images.githubusercontent.com/67971912/171044653-72dcfb16-6a1d-42b2-804a-b491b8eabf2f.png)
