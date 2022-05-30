@@ -10,3 +10,4 @@ This repository contains my Tableau dashboards and visualizations as a sampling 
 		![sales_profit 2](https://user-images.githubusercontent.com/67971912/171045158-c3d2811b-8ee6-4265-9443-7703f5ccd08d.png)
 		The dashboard has filters for one or multiple states and updates the maps according to user selection. 
 		![sales_profit3](https://user-images.githubusercontent.com/67971912/171045467-ea9e35cb-4bc8-42c0-b0b7-51c4035a75b5.png)
+A quick look at the dashboard and we can see that most sales come from high population density areas like California and New York. Meanwhile places like Houston, TX, a high density population, although high sales also has negative profits. 
