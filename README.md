@@ -2,8 +2,8 @@
 Example visualizations
 
 This repository contains my Tableau dashboards and visualizations.
-"Name of file:  sales_profits.twb"
-"Data: Sample Superstore"
+The name of the file is sales_profits.twb
+and the data comes from the Sample Superstore dataset
 
   This dashboard contains choropleth maps for the Sample Superstore data within tableau desktop and shows population layers 
     across the US. 
