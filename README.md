@@ -13,5 +13,5 @@ This repository contains my Tableau dashboards and visualizations as a sampling 
 A quick look at the dashboard and we can see that most sales come from high population density areas like California and New York. Meanwhile places like Houston, TX, a high density population, although high sales also has negative profits. 
 
 Hovering over the top left map we break down sales and cost within the state by 3 product categories:
-Furniture, Technology, and Office Supplies.
+Furniture, Technology, and Office Supplies. This is visualized using stacked bars.
 ![sales_profit4](https://user-images.githubusercontent.com/67971912/175612916-85128a8d-734a-4d36-b2d8-2f458345d59d.png)
